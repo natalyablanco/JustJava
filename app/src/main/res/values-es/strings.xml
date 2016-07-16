@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="add_chocolate">Agregar Chocolate? <xliff:g id="addChocolate" example="true">%b</xliff:g></string>
+    <string name="add_whipped_cream">Agregar Crema Batida?: <xliff:g id="addWhippedCream" example="true">%b</xliff:g></string>
+    <string name="chocolate">Chocolate</string>
+    <string name="name">Nombre: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="order">Orden</string>
+    <string name="quantity">Cantidad: <xliff:g id="quantity" example="2">%d</xliff:g></string>
+    <string name="quantity_text">Cantidad</string>
+    <string name="thank_you">Gracias!</string>
+    <string name="toast_decrement">Al menos uno, Por favor!</string>
+    <string name="toast_increment">Eso es mucho café!</string>
+    <string name="toppings">Ingredientes</string>
+    <string name="total">Total: <xliff:g id="price" example="$10">%s</xliff:g></string>
+    <string name="whipped_cream">Crema Batida</string>
+</resources>
